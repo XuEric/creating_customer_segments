@@ -5,9 +5,9 @@
 
 这个项目要求使用 **Python 2.7** 并且需要安装下面这些python包：
 
-- [NumPy](http：//www.numpy.org/)
-- [Pandas](http：//pandas.pydata.org)
-- [scikit-learn](http：//scikit-learn.org/stable/)
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [scikit-learn](http://scikit-learn.org/stable/)
 
 你同样需要安装好相应软件使之能够运行[Jupyter Notebook](http://jupyter.org/)。
 
